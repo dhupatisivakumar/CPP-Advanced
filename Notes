@@ -1,0 +1,4 @@
+The Predicate requirements describe a callable that returns a value testable as a bool.
+
+Predicate is typically used with algorithms that take input data (individual objects/containers) and a predicate,
+which is then called on input data to decide on further course of action. 
